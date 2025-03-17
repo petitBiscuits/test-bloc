@@ -1,5 +1,5 @@
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:bloc_pattern_example/data/repository/web_repo.dart';
+import 'package:bloc_pattern_example/features/web_page/data/repository/web_repo.dart';
 import 'package:equatable/equatable.dart';
 
 part 'web_event.dart';
